@@ -67,4 +67,9 @@ body {
     .section2 {
         flex-direction: row-reverse;
     }
+
+    .img {
+        width: 25%;
+        height: 25%;
+    }
 }
